@@ -1,7 +1,7 @@
-.jumbotron{
-	background-color: #ffffe6 !important;
-}
 
+.jumbotron{
+	background: linear-gradient(to top left, #ff1616 0%, #000000 100%);
+}
 
 #pagewrapper{
   width: 95%;
@@ -16,3 +16,23 @@
   float: right;
 }
 
+p{
+	color:black;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+div{
+	color: white;
+}
+div{
+font-family: 'Knewave', cursive;
+}
+li{
+  display: inline;
+  padding: 5px;
+  text-decoration:underline;
+ 
+}
+div.a{
+	text-align:right;
+}
