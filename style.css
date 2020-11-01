@@ -1,0 +1,18 @@
+.jumbotron{
+	background-color: #ffffe6 !important;
+}
+
+
+#pagewrapper{
+  width: 95%;
+  margin: 0 auto;
+}
+
+#content{
+  float: left;
+}
+
+#sidebar{
+  float: right;
+}
+
